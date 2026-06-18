@@ -41,3 +41,7 @@ Thumbs.db
 
 # Built zips (optional - keep source instead)
 # *.zip
+
+full_system.py
+full_system.py.bak
+generated_products/
